@@ -7,27 +7,27 @@ The overall goal of this project was to use the analog camera, OV7670, with the 
 
 Connections
 
-	In order for the camera to communicate properly to the FPGA, the wires must be properly connected to the FPGA’s pmod connectors. Along with that, two 4.7k resistors will need to be soldered onto the camera. The first one needs to be connected from the SIOC to 3v3 and the other one needs to be soldered from SIOD to 3v3. These resistors are used as pull up resistors in the I2C like communication protocol. The table below shows how the rest of the camera needs to be wired.
+In order for the camera to communicate properly to the FPGA, the wires must be properly connected to the FPGA’s pmod connectors. Along with that, two 4.7k resistors will need to be soldered onto the camera. The first one needs to be connected from the SIOC to 3v3 and the other one needs to be soldered from SIOD to 3v3. These resistors are used as pull up resistors in the I2C like communication protocol. The table below shows how the rest of the camera needs to be wired.
 
         Camera Header   PMOD Port
-        RESET	          JXADC6
-        D1	            JA2
-        D3	            JA3
-        D5	            JA4
-        GND	            JA5
-        3v3	            JA6
-        D7	            JA7
-        HREF	          JA8
-        VSYNC	          JA9
-        SIOC	          JA10
-        D2	            JB1
-        D4	            JB2
-        D6	            JB3
-        XCLK	          JB4
-        PWDN	          JB7
-        D0	            JB8
-        SIOD	          JB9
-        PCLK	          JB10
+        RESET	        JXADC6
+        D1	        JA2
+        D3	        JA3
+        D5	        JA4
+        GND	        JA5
+        3v3	        JA6
+        D7	        JA7
+        HREF	        JA8
+        VSYNC	        JA9
+        SIOC	        JA10
+        D2	        JB1
+        D4	        JB2
+        D6	        JB3
+        XCLK	        JB4
+        PWDN	        JB7
+        D0	        JB8
+        SIOD	        JB9
+        PCLK	        JB10
 
 
 Verilog Program
