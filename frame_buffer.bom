@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<BillOfMaterials Version="1" Minor="2">
+	<IPInstance name="frame_buffer">
+		<FileSets>
+			<FileSet generator="xmdf_to_bom">
+				<File name="frame_buffer/blk_mem_gen_v7_3_readme.txt" type="ignore" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/doc/blk_mem_gen_v7_3_vinfo.html" type="ignore" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/doc/pg058-blk-mem-gen.pdf" type="ignore" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/example_design/frame_buffer_exdes.ucf" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/example_design/frame_buffer_exdes.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/example_design/frame_buffer_exdes.xdc" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/example_design/frame_buffer_prod.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/implement.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/implement.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/planAhead_ise.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/planAhead_ise.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/planAhead_ise.tcl" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/xst.prj" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/implement/xst.scr" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/addr_gen.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/bmg_stim_gen.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/bmg_tb_pkg.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/checker.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/data_gen.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/frame_buffer_synth.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/frame_buffer_tb.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simcmds.tcl" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_isim.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_mti.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_mti.do" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_mti.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_ncsim.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/simulate_vcs.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/ucli_commands.key" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/vcs_session.tcl" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/wave_mti.do" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/functional/wave_ncsim.sv" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/random.vhd" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simcmds.tcl" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_isim.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_mti.bat" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_mti.do" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_mti.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_ncsim.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/simulate_vcs.sh" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/ucli_commands.key" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/vcs_session.tcl" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/wave_mti.do" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer/simulation/timing/wave_ncsim.sv" type="ignore" timestamp="Wed Mar 09 16:56:46 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.asy" type="asy" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.ngc" type="ngc" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.sym" type="asy" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.vhd" type="vhdl" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.vho" type="vho" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer.xco" type="xco" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="frame_buffer_xmdf.tcl" type="ignore" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+				<File name="summary.log" type="ignore" timestamp="Wed Mar 09 16:56:45 2016" checksum="0">
+				</File>
+			</FileSet>
+		</FileSets>
+	</IPInstance>
+</BillOfMaterials>
+
