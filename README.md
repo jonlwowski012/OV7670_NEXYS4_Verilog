@@ -4,6 +4,8 @@ Introduction
 
 The overall goal of this project was to use the analog camera, OV7670, with the FPGA, NEXYS4, in order to display the camera’s image onto a monitor. To do this, Verilog and Vivado were used to program the FPGA. To connect the camera to the FPGA, male to female headers were connected from the camera’s headers to the FGPA’s pmod connectors. To connect the FPGA to a monitor, a vga cable was connected from the FPGA to the monitor. Once all wired up and programmed, the FPGA should be able to read the image from the camera and display it on the monitor.
 
+![How to wire pull down resistors](pulldown.png)
+
 
 Connections
 
